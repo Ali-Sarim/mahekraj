@@ -70,7 +70,7 @@ const ContactPage: React.FC = () => {
         <div className="max-w-md w-full text-center">
           <div className="bg-white rounded-2xl shadow-xl p-8">
             <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
-              <MessageCircle className="text-green-600" size={32} />
+              <MessageCircle className="text-green-600\" size={32} />
             </div>
             <h2 className="font-display text-2xl font-bold text-gray-900 mb-4">Message Sent!</h2>
             <p className="text-gray-600 mb-6">
